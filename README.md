@@ -41,7 +41,7 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="(https://github-readme-stats-eight-cyan-26.vercel.app/api?username=anunnaki7&show_icons=true&theme=radical)"alt="Nikola Lutovac GitHub Stats" />
+  <img src="https://github-readme-stats-eight-cyan-26.vercel.app/api?username=anunnaki7&show_icons=true&theme=radical" alt="Nikola Lutovac GitHub Stats" />
 </p>
 
 <p align="center">
