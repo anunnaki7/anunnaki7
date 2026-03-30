@@ -33,9 +33,10 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 ---
 
 ## 📂 Other Projects
-- [🟢 Landing Page](https://github.com/anunnaki7/Landing-Page)  
-- [🟡 Login Form](https://github.com/anunnaki7/Login-Form)  
-- [🔵 Business Website](https://github.com/anunnaki7/Business-Website)
+- [🟢 MonteQuad & Buggy tour Kolašin](https://github.com/anunnaki7/MonteQuad-Buggy-Tour-Kolasin)  
+- [🟡 Master Perionica](https://github.com/anunnaki7/Master-Perionica)  
+- [🔵 VillaVillekulla](https://github.com/anunnaki7/VillaVillekulla)  
+- [🟠 Login Form](https://github.com/anunnaki7/Login-Form)  
 
 ---
 
