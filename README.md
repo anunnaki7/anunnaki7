@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 Nikola Lutovac (anunnaki7)
+# 👾 Nikola “anunnaki7” Lutovac
 
 ## 🚀 About Me
 I am a **No-Code Web Developer** focused on **Webflow** and modern web design.  
