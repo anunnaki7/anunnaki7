@@ -41,11 +41,11 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="[https://anunnaki7.vercel.app/api?username=anunnaki7&show_icons=true&theme=radical](https://github-readme-stats-eight-cyan-26.vercel.app/api?username=anunnaki7&show_icons=true&theme=radical)" alt="Nikola Lutovac GitHub Stats" alt="Nikola Lutovac GitHub Stats" />
+  <img src="(https://github-readme-stats-eight-cyan-26.vercel.app/api?username=anunnaki7&show_icons=true&theme=radical)" alt="Nikola Lutovac GitHub Stats" alt="Nikola Lutovac GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="[https://anunnaki7.vercel.app/api/top-langs/?username=anunnaki7&layout=compact&theme=radical](https://github-readme-stats-eight-cyan-26.vercel.app/api/top-langs/?username=anunnaki7&layout=compact&theme=radical)" alt="Top Languages" />
+  <img src="(https://github-readme-stats-eight-cyan-26.vercel.app/api/top-langs/?username=anunnaki7&layout=compact&theme=radical)" alt="Top Languages" />
 </p>
 
 ---
