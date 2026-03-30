@@ -33,7 +33,7 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 ---
 
 ## 📂 Other Projects
-- [🟢 MonteQuad & Buggy tour Kolašin]([https://github.com/anunnaki7/MonteQuad)  
+- [🟢 MonteQuad]([https://github.com/anunnaki7/MonteQuad)  
 - [🟡 Master Perionica](https://github.com/anunnaki7/Master-Perionica)  
 - [🔵 VillaVillekulla](https://github.com/anunnaki7/VillaVillekulla)
 
