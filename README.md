@@ -25,7 +25,7 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 ## 🌐 Featured Project
 ### Personal Portfolio Website
 <div align="center">
-<img src="https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/src/assets/screenshootportfolio.png" alt="Portfolio Screenshot" width="500" style="border: 3px solid red; border-radius: 5px;"/>
+<img src="https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/src/assets/screenshootportfolio.png" alt="Portfolio Screenshot" width="500" style="border: 3px solid red; border-radius: 5px; box-shadow: 0 0 15px red;" />
 </div>
 
 [🔴 View Live](https://nikolalutovac-portfolio.vercel.app/) | [🟠 GitHub Repo](https://github.com/anunnaki7/Personal-Portfolio-Website)
@@ -33,19 +33,27 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 ---
 
 ## 📂 Other Projects
-- [🟢 MonteQuad & Buggy tour Kolašin](https://github.com/anunnaki7/MonteQuad)  
-- [🟡 Master Perionica](https://github.com/anunnaki7/Master-Perionica)  
-- [🔵 VillaVillekulla](https://github.com/anunnaki7/VillaVillekulla)  
+<p align="center">
+  <a href="https://github.com/anunnaki7/MonteQuad">
+    <img src="https://raw.githubusercontent.com/anunnaki7/MonteQuad/main/src/assets/screenshot.png" alt="MonteQuad Screenshot" width="180" style="border: 2px solid red; border-radius: 5px; margin: 5px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px #00ff00, 0 0 40px #00ff00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  </a>
+  <a href="https://github.com/anunnaki7/Master-Perionica">
+    <img src="https://raw.githubusercontent.com/anunnaki7/Master-Perionica/main/src/assets/screenshot.png" alt="Master Perionica Screenshot" width="180" style="border: 2px solid orange; border-radius: 5px; margin: 5px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px #00ff00, 0 0 40px #00ff00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  </a>
+  <a href="https://github.com/anunnaki7/VillaVillekulla">
+    <img src="https://raw.githubusercontent.com/anunnaki7/VillaVillekulla/main/src/assets/screenshot.png" alt="VillaVillekulla Screenshot" width="180" style="border: 2px solid blue; border-radius: 5px; margin: 5px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px #00ff00, 0 0 40px #00ff00';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-cyan-26.vercel.app/api?username=anunnaki7&show_icons=true&theme=radical" alt="Nikola Lutovac GitHub Stats" />
+  <img src="https://github-readme-stats-eight-cyan-26.vercel.app/api?username=anunnaki7&show_icons=true&theme=radical" alt="Nikola Lutovac GitHub Stats" style="border: 3px solid red; border-radius: 5px; box-shadow: 0 0 15px red;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-cyan-26.vercel.app/api/top-langs/?username=anunnaki7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-cyan-26.vercel.app/api/top-langs/?username=anunnaki7&layout=compact&theme=radical" alt="Top Languages" style="border: 3px solid red; border-radius: 5px; box-shadow: 0 0 15px red;" />
 </p>
 
 ---
@@ -55,6 +63,6 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 
 ---
 
-<sub>Designed with ❤️ and a bit of hacker spirit 🚀</sub>
+<sub>Designed with ❤️ and full hacker spirit 🚀</sub>
 
 </div>
