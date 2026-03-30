@@ -1,6 +1,6 @@
-# 👾 Nikola “Anunnaki” Lutovac
-
 <div align="center">
+
+# 👾 Nikola Lutovac (anunnaki7)
 
 ## 🚀 About Me
 I am a **No-Code Web Developer** focused on **Webflow** and modern web design.  
@@ -36,7 +36,6 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 - [🟢 MonteQuad & Buggy tour Kolašin](https://github.com/anunnaki7/MonteQuad)  
 - [🟡 Master Perionica](https://github.com/anunnaki7/Master-Perionica)  
 - [🔵 VillaVillekulla](https://github.com/anunnaki7/VillaVillekulla)  
-- [🟠 Login Form](https://github.com/anunnaki7/Login-Form)  
 
 ---
 
@@ -45,6 +44,6 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 
 ---
 
-<div align="center">
 <sub>Designed with ❤️ and a bit of hacker spirit 🚀</sub>
+
 </div>
