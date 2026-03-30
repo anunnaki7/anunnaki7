@@ -30,7 +30,7 @@ Here are some of my projects:
 
 | Project | Description | Screenshot |
 |---------|-------------|------------|
-| Portfolio Website | My personal portfolio | ![Screenshot](https://via.placeholder.com/200x100.png?text=Portfolio) |
+| Portfolio Website | My personal portfolio | ![Screenshot]([https://via.placeholder.com/200x100.png?text=Portfolio](https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/src/assets/screenshootportfolio.png)) |
 | Landing Page | Example landing page | ![Screenshot](https://via.placeholder.com/200x100.png?text=Landing+Page) |
 | Login Form | Responsive login form | ![Screenshot](https://via.placeholder.com/200x100.png?text=Login+Form) |
 | Business Website | Example business website | ![Screenshot](https://via.placeholder.com/200x100.png?text=Business) |
