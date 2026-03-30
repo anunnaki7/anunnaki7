@@ -30,10 +30,10 @@ Here are some of my projects:
 
 | Project | Description | Screenshot / Link |
 |---------|-------------|-----------------|
-| Personal Portfolio Website | My personal portfolio built with Webflow | ![Portfolio Screenshot](https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/src/assets/screenshootportfolio.png) |
-| Landing Page | Responsive landing page built with Webflow | ![Screenshot](https://via.placeholder.com/200x100.png?text=Landing+Page) |
-| Login Form | Simple HTML/CSS login form | ![Screenshot](https://via.placeholder.com/200x100.png?text=Login+Form) |
-| Business Website | Business website built with Webflow | ![Screenshot](https://via.placeholder.com/200x100.png?text=Business+Website) |
+| Personal Portfolio Website | My personal portfolio built with Webflow | <img src="https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/src/assets/screenshootportfolio.png" alt="Portfolio Screenshot" width="400"/> |
+| Landing Page | Responsive landing page built with Webflow | <img src="https://via.placeholder.com/400x200.png?text=Landing+Page" alt="Landing Page Screenshot" width="400"/> |
+| Login Form | Simple HTML/CSS login form | <img src="https://via.placeholder.com/400x200.png?text=Login+Form" alt="Login Form Screenshot" width="400"/> |
+| Business Website | Business website built with Webflow | <img src="https://via.placeholder.com/400x200.png?text=Business+Website" alt="Business Website Screenshot" width="400"/> |
 
 *(Replace placeholder screenshots with your actual project images later)*
 
