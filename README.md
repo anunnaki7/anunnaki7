@@ -1,50 +1,49 @@
-# Hi, I'm Nikola 👋
+# 👾 Nikola “Anunnaki” Lutovac
 
 <div align="center">
 
 ## 🚀 About Me
-I am a No-Code Web Developer focused on Webflow and modern website design.  
-Building responsive websites, landing pages, and portfolio websites.  
-Currently learning HTML & CSS and improving my web development skills every day.
+I am a **No-Code Web Developer** focused on **Webflow** and modern web design.  
+Building responsive websites, landing pages, and personal portfolios.  
+
+I work mostly on **Linux** and love keeping everything **fast, clean & powerful**.  
 
 ---
 
 ## 🛠️ Skills & Tools
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-000000?style=for-the-badge&logo=webflow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FC3C3C?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Webflow-000000?style=for-the-badge&logo=webflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FC3C3C?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Portfolio
-Check out my portfolio website:  
-[https://nikolalutovac-portfolio.vercel.app/](https://nikolalutovac-portfolio.vercel.app/)
+## 🌐 Featured Project
+### Personal Portfolio Website
+<div align="center">
+<img src="https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/src/assets/screenshootportfolio.png" alt="Portfolio Screenshot" width="500" style="border: 3px solid red; border-radius: 5px;"/>
+</div>
+
+[🔴 View Live](https://nikolalutovac-portfolio.vercel.app/) | [🟠 GitHub Repo](https://github.com/anunnaki7/Personal-Portfolio-Website)
 
 ---
 
-## 📂 Projects
-Here are some of my projects:
-
-| Project | Description | Screenshot / Link |
-|---------|-------------|-----------------|
-| Personal Portfolio Website | My personal portfolio built with Webflow | <img src="https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/src/assets/screenshootportfolio.png" alt="Portfolio Screenshot" width="400"/> |
-| Landing Page | Responsive landing page built with Webflow | <img src="https://via.placeholder.com/400x200.png?text=Landing+Page" alt="Landing Page Screenshot" width="400"/> |
-| Login Form | Simple HTML/CSS login form | <img src="https://via.placeholder.com/400x200.png?text=Login+Form" alt="Login Form Screenshot" width="400"/> |
-| Business Website | Business website built with Webflow | <img src="https://via.placeholder.com/400x200.png?text=Business+Website" alt="Business Website Screenshot" width="400"/> |
-
-*(Replace placeholder screenshots with your actual project images later)*
+## 📂 Other Projects
+- [🟢 Landing Page](https://github.com/anunnaki7/Landing-Page)  
+- [🟡 Login Form](https://github.com/anunnaki7/Login-Form)  
+- [🔵 Business Website](https://github.com/anunnaki7/Business-Website)
 
 ---
 
 ## 📫 Contact
-Email: dzoni.luta07@gmail.com  
+💌 dzoni.luta07@gmail.com  
 
 ---
 
-## 💼 Freelance
-Available for freelance Webflow and web development projects.
-
+<div align="center">
+<sub>Designed with ❤️ and a bit of hacker spirit 🚀</sub>
 </div>
