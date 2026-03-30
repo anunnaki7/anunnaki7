@@ -1,4 +1,4 @@
-# 👾 Nikola “Anunnaki” Lutovac
+# 👾 Nikola “anunnaki7” Lutovac
 
 <div align="center">
 
@@ -33,10 +33,9 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 ---
 
 ## 📂 Other Projects
-- [🟢 MonteQuad & Buggy tour Kolašin](https://github.com/anunnaki7/MonteQuad-Buggy-Tour-Kolasin)  
+- [🟢 MonteQuad & Buggy tour Kolašin]([https://github.com/anunnaki7/MonteQuad)  
 - [🟡 Master Perionica](https://github.com/anunnaki7/Master-Perionica)  
-- [🔵 VillaVillekulla](https://github.com/anunnaki7/VillaVillekulla)  
-- [🟠 Login Form](https://github.com/anunnaki7/Login-Form)  
+- [🔵 VillaVillekulla](https://github.com/anunnaki7/VillaVillekulla)
 
 ---
 
