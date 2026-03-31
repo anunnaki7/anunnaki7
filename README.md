@@ -51,6 +51,7 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 - [🟢 MonteQuad & Buggy tour Kolašin](https://github.com/anunnaki7/MonteQuad) — Landing page for adventure quad tour company in Kolašin
 - [🟡 Master Perionica](https://github.com/anunnaki7/Master-Perionica) — Website for a professional car wash service
 - [🔵 VillaVillekulla](https://github.com/anunnaki7/VillaVillekulla) — Web presentation for a villa / accommodation rental
+- [🔴 Apex Gym](https://github.com/anunnaki7/apex-gym) — Fitness gym website
 
 ---
 
