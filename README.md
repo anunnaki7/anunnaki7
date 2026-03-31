@@ -65,6 +65,12 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anunnaki7&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📫 Contact
 💌 dzoni.luta07@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/TVOJ-LINKEDIN-OVDJE)  
