@@ -82,5 +82,3 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 <sub>Designed with ❤️ and a bit of hacker spirit 🚀</sub>
 
 </div>
-
-Evo ti cijeli kod ja sam vibe coding to sve izmijenjas sto mislis i stavi da sam u belgrade ostalo nista ne diraj 
