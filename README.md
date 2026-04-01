@@ -1,5 +1,7 @@
 <div align="center">
+
 # 👾 Nikola "anunnaki7" Lutovac
+
 ## 🚀 About Me
 I am a **No-Code Web Developer** based in **Montenegro 🇲🇪**, focused on **Webflow** and modern web design.  
 Building responsive websites, landing pages, and personal portfolios.  
@@ -80,3 +82,5 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 <sub>Designed with ❤️ and a bit of hacker spirit 🚀</sub>
 
 </div>
+
+Evo ti cijeli kod ja sam vibe coding to sve izmijenjas sto mislis i stavi da sam u belgrade ostalo nista ne diraj 
