@@ -1,5 +1,16 @@
 <div align="center">
 
+```text
+    _    _   _ _   _ _   _    _    _   _____ 
+   / \  | \ | | | | | \ | |  / \  | |/ /|___  |
+  / _ \ |  \| | | | |  \| | / _ \ | ' /    / / 
+ / ___ \| |\  | |_| | |\  |/ ___ \| . \   / /  
+/_/   \_\_| \_|\___/|_| \_/_/   \_\_|\_\ /_/   
+                                               
+           [ VIBE CODING IN PROGRESS... ]
+
+<div align="center">
+
 # 👾 Nikola "anunnaki7" Lutovac
 
 ## 🚀 About Me
