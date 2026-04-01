@@ -1,4 +1,3 @@
-<div align="center">
 
 ```text
     _    _   _ _   _ _   _    _    _   _____ 
@@ -9,7 +8,6 @@
                                                
            [ VIBE CODING IN PROGRESS... ]
 
-<div align="center">
 
 # 👾 Nikola "anunnaki7" Lutovac
 
