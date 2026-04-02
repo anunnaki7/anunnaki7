@@ -1,18 +1,22 @@
-<div align="center">
-
-# 👾 Nikola "anunnaki7" Lutovac
-
-## 🚀 About Me
-I am a **No-Code Web Developer** based in **Montenegro 🇲🇪**, focused on **Webflow** and modern web design.  
-Building responsive websites, landing pages, and personal portfolios.  
-
-I work mostly on **Linux** and love keeping everything **fast, clean & powerful**.  
-
-💼 **Open for freelance work and collaborations!**
-
-🌱 **Currently learning:** React, Tailwind CSS, Figma
-
----
+‹div align="center">
+###
+Nikola "anunnaki7" Lutovac
+Vibe Coding Developer & Designer
+ーーー
+##"
+About Me
+I am a **Frontend Developer** based in
+**Montenegro
+• **, specializing in **Vibe
+Coding** - turning
+bold ideas into high-
+performance digital reality.
+Focused on building responsive websites, premium landing pages, and custom web
+applications that stand out.
+I live in the **terminal**, work on
+**Linux**, and keep my code **fast, clean powerful**.
+**Open for freelance work and premium collaborations!**
+ーーー
 
 ## 🛠️ Skills & Tools
 
