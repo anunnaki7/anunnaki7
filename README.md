@@ -1,26 +1,24 @@
-‹div align="center">
-###
-Nikola "anunnaki7" Lutovac
-Vibe Coding Developer & Designer
-ーーー
-##"
-About Me
-I am a **Frontend Developer** based in
-**Montenegro
-• **, specializing in **Vibe
-Coding** - turning
-bold ideas into high-
-performance digital reality.
-Focused on building responsive websites, premium landing pages, and custom web
-applications that stand out.
-I live in the **terminal**, work on
-**Linux**, and keep my code **fast, clean powerful**.
-**Open for freelance work and premium collaborations!**
-ーーー
+<div align="center">
+
+# 👾 Nikola "anunnaki7" Lutovac
+
+## 🚀 About Me
+
+I am a **Frontend Developer** based in **Montenegro 🇲🇪**, focused on **Vibe Coding** and modern web design.  
+Building responsive websites, landing pages, and personal portfolios.  
+
+I work mostly on **Linux** and love keeping everything **fast, clean & powerful**.  
+
+💼 **Open for freelance work and collaborations!**
+
+🌱 **Skills:** React, Tailwind CSS, Figma, Webflow
+
+---
 
 ## 🛠️ Skills & Tools
 
 **Design & Development**
+
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,6 +28,7 @@ I live in the **terminal**, work on
 </p>
 
 **Tools & Platforms**
+
 <p>
 <img src="https://img.shields.io/badge/Linux-FC3C3C?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -39,7 +38,8 @@ I live in the **terminal**, work on
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+</div>
+
 
 ## 🌐 Featured Project
 ### Personal Portfolio Website
