@@ -44,7 +44,7 @@ I work mostly on **Linux** and love keeping everything **fast, clean & powerful*
 ## 🌐 Featured Project
 ### Personal Portfolio Website
 <div align="center">
-<img src="https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/public/myportfolio.png" alt="Portfolio Screenshot" width="500" style="border: 3px solid red; border-radius: 5px;"/>
+<img src="https://raw.githubusercontent.com/anunnaki7/Personal-Portfolio-Website/main/public/portfolio.png" alt="Portfolio Screenshot" width="500" style="border: 3px solid red; border-radius: 5px;"/>
 </div>
 
 [🔴 View Live](https://nikolalutovac-portfolio.vercel.app/) | [🟠 GitHub Repo](https://github.com/anunnaki7/Personal-Portfolio-Website)
